@@ -1,0 +1,8 @@
+pandas
+numpy
+os
+PIL
+cv2
+tensorflow
+scikit-learn
+tqdm
